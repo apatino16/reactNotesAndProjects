@@ -1,2 +1,2 @@
-# reactNotesAndProjects
-React notes 
+# React Notes and Projects
+
